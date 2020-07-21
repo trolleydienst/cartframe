@@ -1,0 +1,16 @@
+{
+    "name": "trolleydienst/cartframe",
+    "description": "Framework for schedule planning",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Trolleydienst Team",
+            "email": "support@trolleydienst.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"CartFrame\\": "src/"}
+    }
+}
